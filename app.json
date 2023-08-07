@@ -9,23 +9,23 @@
     "env": {
         "APP_ID": {
             "description": "You api id get it from my.telegram.org or @apiScrapperRoBot",
-            "value": ""
+            "value": "1824666"
         },
         "API_HASH": {
             "description": "You api hash get it from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "d316eb966e164eb8783583025a27e530"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and enter it's api token",
-            "value": ""
+            "value": "1829491217:AAG-rnKpNn1O8CayY0bUIQFqfZv4CRW-ZZ8"
         },
         "OWNER": {
             "description": "Put ids of user which can access the bot e.g 123456789",
-            "value": ""
+            "value": "677682427"
         },
         "THUMBNAIL": {
             "description": "Put Link of any picture.",
-            "value": "https://telegra.ph/file/f9e5d783542906418412d.jpg",
+            "value": "https://www.anipulse.com/files/logo.png",
             "required": false
         }
     }
